@@ -92,4 +92,4 @@ To secure the AI revolution by providing enterprise-grade security, monitoring, 
 
 **Securing the future of AI, one system at a time.** 🚀
 
-*Built with ❤️ by the perfecXion.ai team*
+*Built by the perfecXion.ai team*
